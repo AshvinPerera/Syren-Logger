@@ -1,4 +1,4 @@
-# SyrenLogger
+# Syren Logger
 SyrenLogger is a simple header only C++ logging library with C# style string formatting.
 
 ## Features
@@ -24,3 +24,6 @@ logger->Error("This error message logs the value {0}", 1)
 
 ## Documentation
 The logging library can be accessed using the ```Logger``` class under the ```SyrenLogger``` namespace. This class acts as a log manager where different log sinks can be created, accessed, and modified. 
+
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
