@@ -1,0 +1,2 @@
+#define SYRENLOGGER_API __declspec(dllexport)
+#define SYRENLOGGER_API __declspec(dllimport)
